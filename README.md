@@ -1,1 +1,1 @@
-# 10_q_analysis
+# stock_tinder
